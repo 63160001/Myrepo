@@ -1,0 +1,20 @@
+[
+	{
+	"title" : "BlueLock Vol.1",
+	"subtitle" : "ความฝัน",
+	"image_url" : "https://muramasa.com.br/wp-content/uploads/2022/10/blue-lock-episodio-2-imagem-1.webp",
+	"detail" : "ความฝันจริงๆ"
+	},
+	{
+	"title" : "BlueLock Vol.2",
+	"subtitle" : "ความเชื่อ",
+	"image_url" : "https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2022/11/05/3256747192.jpg",
+	"detail" : "ความเชื่อจริงๆ"
+	},
+	{
+	"title" : "BlueLock Vol.3",
+	"subtitle" : "ความจริง",
+	"image_url" : "https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2022/08/bluelock_pv2screenshot.png",
+	"detail" : "ความจริงจริงๆ"
+	}
+]
